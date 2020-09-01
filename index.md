@@ -8,12 +8,12 @@
   In 2019, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. Tong Lu.<br>
 
 ### Research Interests
-  Computer Vision, Object Detection<br>
+  Computer Vision, Object Detection, Scene Text Detection, Scene Text Spotting<br>
 
 ### Publications
 
 ### Correspondence
-  Email: 769244015@qq.com<br>
+  Email: zhonghumen@smail.nju.edu.cn<br>
   Office: Room 315, Department of Computer Science and Technology, Xianlin Campus of Nanjing University<br>
   Address:<br> 
   National Key Laboratory for Novel Software Technology<br>
