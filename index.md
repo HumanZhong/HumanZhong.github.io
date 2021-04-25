@@ -11,7 +11,8 @@
   Computer Vision, Object Detection, Scene Text Detection, Scene Text Spotting<br>
 
 ### Publications
-
+  [2021CVPR] He, M., Liao, M., Yang, Z., **Zhong, H.**, Tang, J., Cheng, W., ... & Bai, X. (2021). MOST: A Multi-Oriented Scene Text Detector with Localization Refinement. arXiv preprint arXiv:2104.01070.
+  
 ### Correspondence
   Email: zhonghumen@smail.nju.edu.cn<br>
   Office: Room 315, Department of Computer Science and Technology, Xianlin Campus of Nanjing University<br>
