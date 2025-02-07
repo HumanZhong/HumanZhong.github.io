@@ -2,14 +2,15 @@
   M.Sc Student<br>
   Department of Computer Science & Technology,<br>
   Nanjing University, Nanjing 210023, China.<br>
+  Now working for Qwen team, Alibaba Group.<br>
 
 ### Short Biography
   I received my B.Sc. degree from Nanjing University, China in June 2019.<br>
   In 2019, I was admitted to study for a M.Sc. degree in Nanjing University under the supervision of Prof. Tong Lu.<br>
-  I am currently a researcher at Alibaba DAMO Academy.
+  I joined Alibaba DAMO Academy after graduation and I am currently a researcher at Qwen team, Alibaba Group working on the visual grounding capability of Qwen-VL.
   
 ### Research Interests
-  Computer Vision, OCR, Scene Text Detection/Recognition/Spotting, Large Multi-Modal Models (LMM)<br>
+  Computer Vision, OCR, Scene Text Detection/Recognition/Spotting, Large Multi-Modal Models (LMM), Visual Grounding<br>
 
 ### Publications
   **Zhong, H**, Yang, Z., Li, Z., Wang, P., Tang, J., Cheng, W., Yao, C. (2024). VL-Reader: Vision and Language Reconstructor is an Effective Scene Text Recognizer. In Proceedings of the 32nd ACM International Conference on Multimedia.<br>
